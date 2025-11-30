@@ -6,7 +6,7 @@ Designed for **consistent, publication-ready visualizations** in:
 
 - Rodent brain schematics  
 - Circuit diagrams  
-- Behavioral neuroscience figures  
+- Neuroscience figures  
 - Meta-analysis plots with anatomical grouping  
 
 ---
