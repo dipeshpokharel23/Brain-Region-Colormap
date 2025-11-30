@@ -1,6 +1,4 @@
 # Brain Region Colormap 🧠🎨  
-**Author:** Dipesh Pokharel  
-
 A small, opinionated set of color codes for common brain regions used in neuroscience figures.  
 Designed for **consistent, publication-ready visualizations** in:
 
@@ -8,10 +6,8 @@ Designed for **consistent, publication-ready visualizations** in:
 - Circuit diagrams  
 - Neuroscience figures  
 - Meta-analysis plots with anatomical grouping  
-
 ---
-
-## 1. Brain Region Color Table
+1. Brain Region Color Table
 
 | Region            | Short Name | Hex Code |
 |-------------------|-----------:|:--------:|
@@ -29,10 +25,8 @@ Designed for **consistent, publication-ready visualizations** in:
 | Prefrontal Cortex | PFC       | `#ff9896` |
 
 You can adjust these colors to match your lab’s style; this is just a clean starting palette.
-
 ---
-
-## 2. Files in This Repository
+2. Files in This Repository
 
 ### `brain_regions_colormap.csv`
 
